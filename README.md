@@ -1,0 +1,2 @@
+# cs4414-Introduction-to-Data-Science-I
+The objective of this course is to introduce students to data science (DS) techniques, with a focus on application to substantive (i.e. "applied") problems. Students will gain experience in identifying which problems can be tackled by DS methods, and learn to identify which specific DS methods are applicable to a problem at hand. During the course, students will gain an in-depth understanding of a particular (substantive problem, DS solution) pair, and present their findings to their peers in the class.
